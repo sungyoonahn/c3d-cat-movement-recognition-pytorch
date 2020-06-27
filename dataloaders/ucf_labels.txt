@@ -1,0 +1,7 @@
+1 Comfort
+2 Defence
+3 Doubful
+4 Familiarity
+5 Obedience
+6 Scared
+7 Thought
