@@ -16,11 +16,13 @@ To install anaconda go to https://docs.anaconda.com/anaconda/install/ and follow
    
    
 <b>Personal dataset</b>
+<hr>
 You can add your own video dataset by putting your classified videos in file UCF-101
 When using your own dataset please change the appropriate lines in train.py and dataloaders/ucf_labels.txt
 
 
 <b>Demo</b>
+<hr>
 The demo video can be made by running
 python inference.py
 appropriate changes are needed in the code
