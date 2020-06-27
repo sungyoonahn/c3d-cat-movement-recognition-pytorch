@@ -12,7 +12,7 @@ To install anaconda go to https://docs.anaconda.com/anaconda/install/ and follow
 3) You can configure your dataset and pretrained model in mypath.py
 4) To train the model run 
   python train.py
-   in anaconda
+   in anaconda</br>
 <b>Personal dataset</b>
  You can add your own video dataset by putting your classified videos in file UCF-101
  When using your own dataset please change the appropriate lines in train.py and dataloaders/ucf_labels.txt
