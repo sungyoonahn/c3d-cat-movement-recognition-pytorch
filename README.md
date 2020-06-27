@@ -1,5 +1,5 @@
 # c3d-cat-movement-recognition-pytorch
-This repo is the graduation project for Ha Young Jang, Eun Hee Ham and Sung Yoon Ahn
+This repo is the graduation project for Ha Yeong Jang, Eun Hee Ham and Sung Yoon Ahn
 It is done by using the C3D model
 
 <b>Installation</b>
